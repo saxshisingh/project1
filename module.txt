@@ -1,0 +1,44 @@
+Bitcoin (BTC):
+
+Module: bitcoinjs-lib
+Installation: npm install bitcoinjs-lib
+Ethereum (ETH):
+
+Module: ethers.js
+Installation: npm install ethers
+Tether (USDT) on Ethereum:
+
+Same as Ethereum wallet: ethers.js
+Binance Coin (BNB) on Binance Smart Chain:
+
+Module: @binance-chain/javascript-sdk
+Installation: npm install @binance-chain/javascript-sdk
+Tron (TRX):
+
+Module: tronweb
+Installation: npm install tronweb
+Solana (SOL):
+
+Module: @solana/web3.js
+Installation: npm install @solana/web3.js
+Litecoin (LTC):
+
+Module: litecore-lib
+Installation: npm install litecore-lib
+Dogecoin (DOGE):
+
+Module: dogecore-lib
+Installation: npm install dogecore-lib
+Polygon (MATIC) on Ethereum:
+
+Same as Ethereum wallet: ethers.js
+Uniswap on Ethereum:
+
+Same as Ethereum wallet: ethers.js
+Polkadot (DOT):
+
+Module: @polkadot/api
+Installation: npm install @polkadot/api
+Chainlink (LINK) on Ethereum:
+
+Same as Ethereum wallet: ethers.js
